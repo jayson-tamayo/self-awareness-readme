@@ -1,4 +1,4 @@
-## #Question: In general, what is Procrastination? Is it a habit? Behavior? An Attitude? or mental sickness? 
+## #Question: In general, what is Procrastination? Is it a habit? Behavior? An Attitude? or Mental Sickness? 
  
 In general, procrastination is a behavior pattern where a person voluntarily delays or postpones tasks even when they know the delay may lead to negative consequences. 
 
@@ -114,7 +114,7 @@ So the best answer is:
 ✅ May be influenced by attitudes<br>
 ❌ Not generally a mental sickness, though it can be related to mental health issues.<br>
 
-## #Question How can I overcome procrastination and what are common triggers of it? 
+## #Question: How can I overcome procrastination and what are common triggers of it? 
  
 The good news is that procrastination is usually changeable. Most people don't eliminate it completely, but they learn how to reduce its impact and recover faster when it happens. 
 
