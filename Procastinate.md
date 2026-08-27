@@ -109,10 +109,10 @@ Procrastination is a behavior of delaying tasks, often reinforced into a habit, 
 
 So the best answer is: 
 
-✅ Behavior (primary) 
-✅ Can become a habit 
-✅ May be influenced by attitudes 
-❌ Not generally a mental sickness, though it can be related to mental health issues. 
+✅ Behavior (primary)<br>
+✅ Can become a habit<br>
+✅ May be influenced by attitudes<br>
+❌ Not generally a mental sickness, though it can be related to mental health issues.<br>
 
 ## #Question How can I overcome procrastination and what are common triggers of it? 
  
